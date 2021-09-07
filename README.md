@@ -41,9 +41,11 @@ Here are some articles about system design related topics.
 
 * [**_The Anatomy Of A System Design Interview_**](https://blog.pramp.com/system-design-interview-process-e91aae2dbe83)
 * [**_How to Succeed in a System Design Interview_**](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
-* [**_Scalable Web Architecture and Distributed Systems_**](http://www.aosabook.org/en/distsys.html)
-* [A Distributed Systems Reading List](http://dancres.github.io/Pages/)
-* **_https://web.archive.org/web/20190319154842/https://plus.google.com/112678702228711889851/posts/eVeouesvaVX_**
+   * [**_Scalable Web Architecture and Distributed Systems_**](http://www.aosabook.org/en/distsys.html)
+   * [A Distributed Systems Reading List](http://dancres.github.io/Pages/)
+   * [System Design Cheatsheet](https://gist.github.com/umeshdua/6861cb9355276b7251f6d3593c8685a1)
+   * **_https://web.archive.org/web/20190319154842/https://plus.google.com/112678702228711889851/posts/eVeouesvaVX_**
+* [The Complete System Design Interviewer Guide](https://blog.pramp.com/the-complete-system-design-interviewer-guide-e5d273724db8)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
