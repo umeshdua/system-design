@@ -46,6 +46,7 @@ Here are some articles about system design related topics.
    * [System Design Cheatsheet](https://gist.github.com/umeshdua/6861cb9355276b7251f6d3593c8685a1)
    * [**_Stevey's Google Platforms Rant_**](https://web.archive.org/web/20190319154842/https://plus.google.com/112678702228711889851/posts/eVeouesvaVX)
 * [**_The Complete System Design Interviewer Guide_**](https://blog.pramp.com/the-complete-system-design-interviewer-guide-e5d273724db8)
+* [**_system-design@hiredintech.com_**](https://www.hiredintech.com/classrooms/system-design/)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
@@ -61,6 +62,7 @@ Here are some articles about system design related topics.
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+* [algorithm-design@hiredintech.com](https://www.hiredintech.com/classrooms/algorithm-design/)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
